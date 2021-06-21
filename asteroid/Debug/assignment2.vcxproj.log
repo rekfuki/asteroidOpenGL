@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\rekfuki\source\repos\assignment2\assignment2\src\main.cpp(107,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\assignment2\assignment2\src\main.cpp(160,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\assignment2\assignment2\src\main.cpp(161,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\assignment2\assignment2\src\main.cpp(171,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\assignment2\assignment2\src\main.cpp(172,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\assignment2\assignment2\src\main.cpp(193,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rekfuki\source\repos\assignment2\assignment2\src\main.cpp(193,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  wrapper_glfw.cpp
+  Generating Code...
+glfw3D.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(context.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(init.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(input.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(monitor.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(vulkan.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(window.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_init.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_joystick.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_monitor.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_time.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_tls.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_window.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(wgl_context.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(egl_context.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glfw.pdb'; linking object as if no debug info
+glloadD.lib(gl_load.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glloadD.pdb'; linking object as if no debug info
+glloadD.lib(gl_load_cpp.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load_cpp.obj)' or at 'C:\Users\rekfuki\source\repos\assignment2\Debug\glloadD.pdb'; linking object as if no debug info
+  assignment2.vcxproj.vcxproj -> C:\Users\rekfuki\source\repos\assignment2\Debug\assignment2.exe

@@ -1,0 +1,125 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (assignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  asteroid_field.cpp
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\utils.cpp(10,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\asteroid_field.cpp(12,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\asteroid_field.cpp(29,71): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\asteroid_field.cpp(33,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\asteroid_field.cpp(118,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\asteroid_field.cpp(122,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  depth_map.cpp
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\depth_map.cpp(34,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\depth_map.cpp(35,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\depth_map.cpp(47,35): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\depth_map.cpp(47,19): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  icosphere.cpp
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\icosphere.cpp(88,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\icosphere.cpp(88,17): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  main.cpp
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(70,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(71,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(73,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(198,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(337,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(338,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(348,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(349,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(370,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(370,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(170,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=int,
+              _Other=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)' being compiled
+          with
+          [
+              _This=float,
+              _Ty=int,
+              _Other=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::tuple<float>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(258): message : see reference to function template instantiation 'std::tuple<float>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)' being compiled
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(340): message : see reference to function template instantiation 'std::tuple<bool,float>::tuple<std::_Exact_args_t,_Ty,int,0>(_Tag,_This2 &&,int &&)' being compiled
+          with
+          [
+              _Ty=bool,
+              _Tag=std::_Exact_args_t,
+              _This2=bool
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\tuple(340): message : see reference to function template instantiation 'std::tuple<bool,float>::tuple<std::_Exact_args_t,_Ty,int,0>(_Tag,_This2 &&,int &&)' being compiled
+          with
+          [
+              _Ty=bool,
+              _Tag=std::_Exact_args_t,
+              _This2=bool
+          ]
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(329): message : see reference to function template instantiation 'std::tuple<bool,float>::tuple<bool,int,0>(_This2 &&,int &&) noexcept' being compiled
+          with
+          [
+              _This2=bool
+          ]
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\main.cpp(329): message : see reference to function template instantiation 'std::tuple<bool,float>::tuple<bool,int,0>(_This2 &&,int &&) noexcept' being compiled
+          with
+          [
+              _This2=bool
+          ]
+  asteroid.cpp
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\utils.cpp(10,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\asteroid.cpp(13,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\asteroid.cpp(60,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\asteroid.cpp(61,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  shader.cpp
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\shader.cpp(16,44): warning C4101: 'tcsShader': unreferenced local variable
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\shader.cpp(16,33): warning C4101: 'geoShader': unreferenced local variable
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\shader.cpp(16,21): warning C4101: 'fragShader': unreferenced local variable
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\shader.cpp(16,55): warning C4101: 'tesShader': unreferenced local variable
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\shader.cpp(16,9): warning C4101: 'vertShader': unreferenced local variable
+  sky_box.cpp
+  utils.cpp
+C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\asteroid\src\utils.cpp(10,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  wrapper_glfw.cpp
+  Generating Code...
+glfw3D.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(context.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(init.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(input.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(monitor.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(vulkan.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(window.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_init.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_joystick.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_monitor.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_time.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_tls.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(win32_window.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(wgl_context.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glfw3D.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3D.lib(egl_context.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glfw.pdb'; linking object as if no debug info
+glloadD.lib(gl_load.obj) : warning LNK4099: PDB '' was not found with 'glloadD.lib(gl_load.obj)' or at ''; linking object as if no debug info
+glloadD.lib(gl_load_cpp.obj) : warning LNK4099: PDB 'glloadD.pdb' was not found with 'glloadD.lib(gl_load_cpp.obj)' or at 'C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\glloadD.pdb'; linking object as if no debug info
+  asteroid.vcxproj -> C:\Users\rekfuki\source\repos\navasaitis_andrew_ass2\source\Debug\asteroid.exe
