@@ -18,3 +18,6 @@ Perlin noise generator.
 The space itself, is simply a skybox texture that also includes a big star that acts as a light source. All the 
 objects in the scene cast shadows via a simple shadow map. The surface reflectance is approximated 
 using Hapke BRDF.
+
+## How to run
+The project is self-contained and therefore can simply be opened up in Visual Studio.
