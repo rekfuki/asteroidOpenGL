@@ -1,4 +1,4 @@
-# asteroidOpenGL
+# Asteroid OpenGL
  A 3D asteroid space scene implemented using OpenGL
 
 <img src="/asteroidOpenGL.gif?raw=true" width="700px">
