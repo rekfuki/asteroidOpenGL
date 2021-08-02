@@ -21,3 +21,6 @@ using Hapke BRDF.
 
 ## How to run
 The project is self-contained and therefore can simply be opened up in Visual Studio.
+
+## Credits
+Created by [Rekfuki](https://github.com/Rekfuki) with assistance from [SafariMonkey](https://github.com/SafariMonkey).
